@@ -9,7 +9,7 @@ bin
 myoutput*
 doc
 *~
-output*
+
 *.txt
 plot*
 bl_prof*
